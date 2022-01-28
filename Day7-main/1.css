@@ -1,0 +1,15 @@
+.parent {
+  background: green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 20vh;
+  margin-bottom: 1px;
+  border-radius: 8px;
+}
+
+.h1 {
+  background: tomato;
+  margin: 0;
+}
